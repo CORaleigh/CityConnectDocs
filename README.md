@@ -13,6 +13,9 @@ then add this to the web.xml
 
 In the WebContent folder, create a subfolder called apidocs and create an index.html file in there.
 
+Code your html and javascript
+then export as war file and install
+
 Installation:
 osgi:install war:file:/Users/foleyc/Downloads/help.war?Web-ContextPath=cityconnect
 
