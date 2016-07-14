@@ -8,7 +8,7 @@ then add this to the web.xml
        <servlet-mapping>
 		<servlet-name>default</servlet-name>
 		<url-pattern>/help/*</url-pattern>
-	</servlet-mapping>
+	   </servlet-mapping>
 </web-app>
 
 In the WebContent folder, create a subfolder called apidocs and create an index.html file in there.
